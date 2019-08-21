@@ -1,0 +1,11 @@
+{
+  "name": "barcode-midi",
+  "version": "1.0.0",
+  "description": "Symbol barcode reader to MIDI data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Metoyer",
+  "license": "ISC"
+}
